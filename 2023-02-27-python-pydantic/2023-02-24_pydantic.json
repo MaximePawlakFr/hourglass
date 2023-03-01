@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "id": 123,
+            "price": 152,
+            "quantity": 65,
+            "ingredients": [
+                "roquefort",
+                "camembert"
+            ],
+            "name": "you"
+        },{
+
+            "id": 456,
+            "price": "245",
+            "quantity": -10,
+            "ingredients": [
+                "comté",
+                "st nectaire",
+                31000
+            ],
+            "name": "tartine",
+            "added_at": "2021-03-20T00:00:00"
+        }
+    ]
+}
